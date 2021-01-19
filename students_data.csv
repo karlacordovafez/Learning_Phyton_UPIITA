@@ -1,7 +1,14 @@
-id,studen_name,birth_month,career
-1,Karla Cordova,Octubre,Telematica
-2,Harry Potter,Julio,Mago
-2,Draco Malfoy,Junio,Mago
-2,Dimash Kudaibergen,Mayo,Cantante
-2,Andrew Biersack,Diciembre,Artista
-2,Taylor Momsen,Julio,Artista
+id,studen_name,birth_month,career
+
+1,Karla Cordova,Octubre,Telematica
+
+2,Harry Potter,Julio,Mago
+
+3,Draco Malfoy,Junio,Mago
+
+4,Dimash Kudaibergen,Mayo,Cantante
+
+5,Andrew Biersack,Diciembre,Artista
+
+6,Taylor Momsen,Julio,Artista
+
