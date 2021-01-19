@@ -6,10 +6,10 @@ with open('students_data.csv', mode='w') as csv_file:
 	writer.writeheader()
 	writer.writerow({'id':1,'studen_name':'Karla Cordova','birth_month':'Octubre','career':'Telematica'})
 	writer.writerow({'id':2,'studen_name':'Harry Potter','birth_month':'Julio','career':'Mago'})
-	writer.writerow({'id':2,'studen_name':'Draco Malfoy','birth_month':'Junio','career':'Mago'})
-	writer.writerow({'id':2,'studen_name':'Dimash Kudaibergen','birth_month':'Mayo','career':'Cantante'})
-	writer.writerow({'id':2,'studen_name':'Andrew Biersack','birth_month':'Diciembre','career':'Artista'})
-	writer.writerow({'id':2,'studen_name':'Taylor Momsen','birth_month':'Julio','career':'Artista'})
+	writer.writerow({'id':3,'studen_name':'Draco Malfoy','birth_month':'Junio','career':'Mago'})
+	writer.writerow({'id':4,'studen_name':'Dimash Kudaibergen','birth_month':'Mayo','career':'Cantante'})
+	writer.writerow({'id':5,'studen_name':'Andrew Biersack','birth_month':'Diciembre','career':'Artista'})
+	writer.writerow({'id':6,'studen_name':'Taylor Momsen','birth_month':'Julio','career':'Artista'})
 
 with open('students_data.csv', mode='r') as csv_file:
 	reader = csv.DictReader(csv_file)
